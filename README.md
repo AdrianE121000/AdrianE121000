@@ -1,6 +1,6 @@
 # Adrian Pérez
 
-![](https://raw.githubusercontent.com/adriane121000/adriane121000/main/resources/fotologo.jpg)
+![](https://raw.githubusercontent.com/adriane121000/adriane121000/master/resources/fotologo.jpg)
 
 <a href="https://www.linkedin.com/in/adrian-p%C3%A9rez-441ba3264?trk=contact-info" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">

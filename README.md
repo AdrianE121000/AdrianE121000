@@ -16,7 +16,7 @@
 
 Soy un programador FrontEnd apasionado 👨🏻‍💻, me encanta crear interfaces de usuario intuitivas y dinámicas, y tengo un enfoque centrado en la usabilidad y la experiencia del usuario. Con habilidades sólidas en el desarrollo web, puedo traducir diseños en código limpio y eficiente. Actualmente utilizo React con Javascript
 
-¡Estoy ansioso por construir aplicaciones web impactantes y mejorar constantemente mis habilidades en el fascinante mundo del desarrollo FrontEnd!🤩🚀
+¡Estoy ansioso por construir aplicaciones web impactantes y mejorar constantemente mis habilidades en el fascinante mundo del desarrollo FrontEnd!🤩
 
 <br />
 

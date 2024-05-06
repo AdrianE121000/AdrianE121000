@@ -20,6 +20,15 @@ Soy un programador FrontEnd apasionado 👨🏻‍💻, me encanta crear interfa
 
 <br />
 
+## 🎯 Technical skills
+![JavaScript][JavaScript-Badge]
+![TypeScript][TypeScript-Badge]
+![React][React-Badge]
+![Next][Next-Badge]
+![Astro][Astro-Badge]
+
+<br />
+
 ## 📊 Github Stats
 
 <br />
